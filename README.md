@@ -1,3 +1,6 @@
+Please ignore the following README. It is for my use to complete the assignment and holds
+little relevance to the actual assignment.
+
 # CS3310-Assignment1
 Files for assignment 1 of CS 3310 - Data & File Structures. Due 9/20/24
 
